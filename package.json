@@ -25,7 +25,9 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "es6-module-transpiler": "^0.6.2"
+  },
   "devDependencies": {
     "benchmark": "~1.0.0",
     "docker": "^0.2.13",

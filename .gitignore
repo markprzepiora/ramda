@@ -9,14 +9,12 @@ node_modules
 coverage
 *.swp
 
-
 /node_modules
 /examples/math.html
 /examples/math.js
 
-
 .travis.yml
 
-
-
 /ramda.api.js
+
+/tmp
